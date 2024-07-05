@@ -1,0 +1,2 @@
+Azure_AI为完整项目，前端打包到后端
+azure_ai_web为前端源码
