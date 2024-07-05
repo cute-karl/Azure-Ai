@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <excludedPredefinedLibrary name="Azure_AI_W/Azure_AI_W/azure_ai_web/node_modules" />
+  </component>
+</project>
